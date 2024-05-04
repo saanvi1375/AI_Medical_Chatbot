@@ -1,8 +1,9 @@
-AI Doctor 🩺🫀
+HealthAI Navigator: 
+Your Virtual Medical Consultant
 
 Description
 
-AI Doctor is a Streamlit web application that serves as your one-stop solution for healthcare advice. Utilizing the powerful Meta-Llama-3-8B-Instruct model from Hugging Face, it provides users with personalized medical advice based on their queries.
+HealthAI Navigator is a Streamlit web application that serves as your one-stop solution for healthcare advice. Utilizing the powerful Meta-Llama-3-8B-Instruct model from Hugging Face, it provides users with personalized medical advice based on their queries.
 
 Features
 
@@ -13,15 +14,15 @@ Detailed Advice: For more detailed advice, click the "Continue" button to receiv
 How to Run
 
 Clone this repository to your local machine.
-Install the required Python packages by running pip install -r requirements.txt.
 Run the Streamlit app by executing streamlit run app.py in your terminal.
 Access the web application through the provided URL.
 
 Dependencies
 
-Python 3.x
+Python 
 Streamlit
 Requests
+
 Credits
 
 This application utilizes the Hugging Face model for natural language processing.
